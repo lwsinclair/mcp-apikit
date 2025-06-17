@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/scarqin-mcp-apikit-badge.png)](https://mseep.ai/app/scarqin-mcp-apikit)
+
 # MCP-APIKit
 
 MCP-APIKit is a microservice control plane (MCP) server designed specifically for Windsurf IDE integration. It fetches API information from Eolink OpenAPI and provides it to the IDE's MCP client, enabling seamless API integration and management within your development environment.
